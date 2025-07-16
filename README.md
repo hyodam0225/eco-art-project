@@ -10,3 +10,5 @@
 3.세번쨰항목
 ![ㄹ](ㄹ.jpeg)
 'digital.Write(13,High)'
+```cpp
+digitalWrite(13,HIGH)
